@@ -1,0 +1,8 @@
+local.env
+
+dir/
+
+/client/frontend/src/components/
+/client/frontend/src/App.js
+
+/client/frontend/node_modules/
